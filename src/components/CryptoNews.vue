@@ -1,6 +1,6 @@
 <template>
     <section class="news">
-        <header class="news-header">Latest News</header>
+        <header class="news-header">Noticias!</header>
         <div class="news-block">
             <div class="news-item" v-for="(article, index) in news" :key="index">
                 <div class="thumb-img">
@@ -21,7 +21,7 @@
     </section>
 </template>
 <script>
-  import timeago from 'timeago.js';
+  import * as timeago from 'timeago.js';
   export default {
     created() {
       this.getNews();
