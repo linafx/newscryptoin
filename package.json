@@ -1,7 +1,7 @@
 {
   "name": "vue-crypto-dashboard",
-  "description": "Vue Cryptocurrency Dashboard",
-  "author": "JayeshLab <helloiamjayesh@gmail.com>",
+  "description": "CriptoPage",
+  "author": "DiegoMonroy03",
   "version": "0.2.0",
   "license": "MIT",
   "keywords": [
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JayeshLab/vue-crypto-dashboard.git"
+    "url": "git+https://https://github.com/DiegoMonroy03/CriptoPage.git"
   },
   "bugs": {
-    "url": "https://github.com/JayeshLab/vue-crypto-dashboard/issues"
+    "url": "https://github.com/DiegoMonroy03/CriptoPage/issues"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
